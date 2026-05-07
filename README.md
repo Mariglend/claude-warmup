@@ -37,7 +37,7 @@ Each stage is a short, isolated Claude session. The outputs are synthesized into
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-warmup.git
+git clone https://github.com/Mariglend/claude-warmup.git
 cd claude-warmup
 ```
 
@@ -155,8 +155,8 @@ The core mechanic is **front-loading context discovery** into short, isolated se
 
 ## Pair with
 
-- [claude-swarm](https://github.com/YOUR_USERNAME/claude-swarm) — run warmup first, then distribute subtasks to parallel workers, each with the context injected
-- [claude-resume](https://github.com/YOUR_USERNAME/claude-resume) — auto-resume on rate limit
+- [claude-swarm](https://github.com/Mariglend/claude-swarm.git) — run warmup first, then distribute subtasks to parallel workers, each with the context injected
+- [claude-resume] (https://github.com/Mariglend/claude-resume.git) — auto-resume on rate limit
 
 ---
 
